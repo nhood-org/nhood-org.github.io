@@ -1,2 +1,2 @@
-# nhood-web
-Exposes an internal k8s service
+# nhood-service
+Exposes an internal k8s service via https://nhood-org.github.io/nhood-service
